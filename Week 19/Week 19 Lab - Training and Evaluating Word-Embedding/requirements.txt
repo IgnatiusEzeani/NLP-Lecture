@@ -1,0 +1,13 @@
+ftfy
+nltk
+regex
+grapheme
+wordcloud
+matplotlib
+sklearn
+seaborn
+pandas
+numpy
+re
+gensim
+pyemd
